@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Leafine Crypt",
+  "version": "2.0",
+  "description": "Leafyet Stüdyo tarafından hazırlanan özel şifreleme eklentisi.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["activeTab"]
+}
